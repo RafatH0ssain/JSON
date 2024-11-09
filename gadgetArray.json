@@ -1,0 +1,82 @@
+[
+    {
+      "type": "laptop",
+      "name": "Laptop Model A",
+      "price": "999.99",
+      "specifications": ["16GB RAM", "512GB SSD", "Intel i7", "15.6\" Display"],
+      "description": "Powerful and portable laptop for professionals",
+      "image": "https://images.unsplash.com/photo-1517336714731-489689fd1ca8"
+    },
+    {
+      "type": "laptop",
+      "name": "Laptop Model B",
+      "price": "849.99",
+      "specifications": ["8GB RAM", "256GB SSD", "Intel i5", "14\" Display"],
+      "description": "Compact laptop with great performance",
+      "image": "https://cdn.create.vista.com/api/media/medium/190342448/stock-photo-cropped-shot-young-man-using-laptop-blank-screen-home?token="
+    },
+    {
+      "type": "phone",
+      "name": "Phone Model B",
+      "price": "699.99",
+      "specifications": ["5.8\" Display", "64GB Storage", "4G Connectivity", "Dual Camera"],
+      "description": "Affordable smartphone with great performance",
+      "image": "https://cdn.create.vista.com/api/media/medium/389503444/stock-photo-close-female-hand-touching-screen-person-using-phone-blank-screen?token="
+    },
+    {
+      "type": "phone",
+      "name": "Phone Model C",
+      "price": "899.99",
+      "specifications": ["6.4\" Display", "256GB Storage", "5G Connectivity", "Quad Camera"],
+      "description": "Premium smartphone with stunning display",
+      "image": "https://cdn.create.vista.com/api/media/medium/588219954/stock-photo-young-woman-using-smartphone-public-park?token="
+    },
+    {
+      "type": "accessory",
+      "name": "Accessory Model A",
+      "price": "29.99",
+      "specifications": ["Bluetooth", "Wireless", "Compact", "Long Battery Life"],
+      "description": "Portable wireless accessory for daily use",
+      "image": "https://cdn.mos.cms.futurecdn.net/fsDKHB3ZyNJK6zMpDDBenB-650-80.jpg.webp"
+    },
+    {
+      "type": "accessory",
+      "name": "Accessory Model B",
+      "price": "19.99",
+      "specifications": ["Waterproof", "Durable", "Adjustable", "Stylish"],
+      "description": "Durable and stylish accessory",
+      "image": "https://cdn.create.vista.com/api/media/medium/80350760/stock-photo-selective-focus-of-white-earphones-for-using-with-digital-music?token="
+    },
+    {
+      "type": "accessory",
+      "name": "Accessory Model C",
+      "price": "39.99",
+      "specifications": ["Noise Cancelling", "Wireless", "Compact", "High Fidelity"],
+      "description": "Noise cancelling wireless headphones",
+      "image": "https://cdn.create.vista.com/api/media/medium/532347028/stock-photo-seoul-south-korea-november-2021-samsung-galaxy-buds?token="
+    },
+    {
+      "type": "accessory",
+      "name": "Accessory Model D",
+      "price": "24.99",
+      "specifications": ["Portable", "Rechargeable", "High Capacity", "USB-C"],
+      "description": "Portable rechargeable power bank with USB-C",
+      "image": "https://cdn.create.vista.com/api/media/medium/521733626/stock-photo-modern-power-bank-white-background?token="
+    },
+    {
+      "type": "macbook",
+      "name": "MacBook Pro 13\" M1",
+      "price": "1299.99",
+      "specifications": ["8GB RAM", "512GB SSD", "Apple M1", "13.3\" Retina Display"],
+      "description": "High-performance MacBook Pro with M1 chip",
+      "image": "https://cdn.create.vista.com/api/media/medium/50163213/stock-photo-man-with-laptop?token="
+    },
+    {
+      "type": "macbook",
+      "name": "MacBook Pro 16\"",
+      "price": "2399.99",
+      "specifications": ["16GB RAM", "1TB SSD", "Intel i9", "16\" Retina Display"],
+      "description": "Professional-grade MacBook Pro with large display",
+      "image": "https://cdn.create.vista.com/api/media/medium/355215736/stock-photo-hacker-computer-man-sitting-table-hood?token="
+    }
+]
